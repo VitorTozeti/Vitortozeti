@@ -736,6 +736,11 @@ Parte de baixo SIDEBAR
     transition: all 1s;
 }
 
+.overlay-text button a {
+    text-decoration: none;
+    color: #fff;
+}
+
 .overlay-text button:hover {
     background-color: #001021;
 }
