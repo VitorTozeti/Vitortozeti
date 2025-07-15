@@ -472,7 +472,7 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        height: 110vh;
+        height: 115vh;
         position: relative;
         overflow: hidden;
     }
@@ -506,7 +506,7 @@
         flex-wrap: wrap;
         width: 100%;
         height: auto;
-        margin-bottom: 3rem;
+        margin-bottom: 4rem;
         /* Ajuste conforme o conteúdo */
     }
 
@@ -657,7 +657,7 @@
 
 
 
-    
+
 
 
 }
