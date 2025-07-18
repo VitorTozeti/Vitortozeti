@@ -405,7 +405,7 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        min-height: 300vh;
+        min-height: 270vh;
         height: auto;
         position: relative;
         overflow: hidden;
@@ -725,7 +725,7 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        min-height: 250vh;
+        min-height: 225vh;
         height: auto;
         position: relative;
         overflow: hidden;
