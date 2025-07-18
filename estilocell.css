@@ -724,7 +724,7 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        height: 130vh;
+        height: 180vh;
         position: relative;
         overflow: hidden;
     }
@@ -790,15 +790,15 @@
 
     .service-cards h1 {
         font-family: 'Arial';
-        font-size: 0.9rem;
+        font-size: 1.1rem;
         color: aliceblue;
         text-align: center;
         margin-bottom: 2rem;
     }
 
     .service-cards p {
-        width: 10.5rem;
-        font-size: 0.9rem;
+        width: 90%;
+        font-size: 1rem;
         text-align: center;
         font-weight: 500;
         color: #7997b8;
@@ -962,7 +962,7 @@
         margin-top: auto;
         padding: 1rem 0;
         text-align: center;
-        margin-bottom: -5rem;
+        margin-bottom: -3.5rem;
     }
 
     .contatos2 i {
@@ -978,4 +978,19 @@
         font-size: 1.3rem;
         color: #11B5E4;
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
