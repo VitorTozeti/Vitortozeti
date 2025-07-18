@@ -405,7 +405,8 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        height: 200vh;
+        min-height: 200vh;
+        height: auto;
         position: relative;
         overflow: hidden;
     }
