@@ -62,3 +62,17 @@ document.getElementById("CurrV").addEventListener("click", function () {
   document.body.removeChild(link);
 }
 )
+
+window.addEventListener('load', adjustSectionHeight);
+window.addEventListener('resize', adjustSectionHeight);
+
+function adjustSectionHeight() {
+    const section = document.getElementById('section3');
+    const contentHeight = section.scrollHeight;
+    const sectionHeight = section.clientHeight;
+
+    if (contentHeight > sectionHeight) {
+        // Aumenta a altura em 30%
+        section.style.height = (sectionHeight * 1.3) + 'px';
+    }
+}
